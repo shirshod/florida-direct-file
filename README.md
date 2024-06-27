@@ -1,4 +1,6 @@
+## Juvenile Crime, Adult Time — Direct File in Florida
 
+By: Shirsho Dasgupta (2023-2024)
 
 The Miami Herald obtained data on all children recorded in Florida’s Department of Juvenile Justice databases from 2008 to 2022. The information included their demographic backgrounds, charges and the ultimate outcome of each case. The Herald converted this incident-level data into individual-type data. 
 
